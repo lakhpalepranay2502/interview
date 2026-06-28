@@ -13,7 +13,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>Interview</name>
-    <description>Interview</description>
+    <description>Github Project For Interview Preparation</description>
     <url/>
     <licenses>
         <license/>
